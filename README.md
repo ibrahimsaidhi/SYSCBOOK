@@ -2,6 +2,9 @@
 
 This is a project created for the Winter 2024 offering of SYSC 4504 - Fundamentals of Web Development at Carleton University. It is a mini social media application that allows users to register and customize profiles, as well as post status updates of what they're up to. The stack consists of MySQL, PHP, HTML, and CSS. 
 
+![image](https://github.com/ibrahimsaidhi/SYSCX/assets/91332979/78421907-2b24-4387-9ef9-7dd28cf3c630)
+
+
 ### Running the application
 
 Start by [downloading and installing XAMPP](https://www.apachefriends.org/download.html).
