@@ -19,4 +19,4 @@ On the control panel, run the admin for MySQL to access phpMyAdmin.
 
 Once opened, copy and paste the SQL dump from `ibrahim_said_a03.sql` in the repository folder onto a new SQL editor. This will create the database for the application.
 
-When all of this is set, open http://localhost/YourPathToRepository/register.php. This will allow for you to register a new user.
+When all of this is set, open `http://localhost/YourPathToRepository/register.php.` This will allow for you to register a new user.
